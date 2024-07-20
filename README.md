@@ -19,7 +19,7 @@
 
 With _5 languages_ above I'm comfortable with various platforms from _backend_, _mobile_ through _dekstop_, way down.. into kernel level
 
-Currently, filling in time as a _farmer_ in my hometown, I'll work as a typer again soon (well, i think so..) 
+
 
 </td>
 
