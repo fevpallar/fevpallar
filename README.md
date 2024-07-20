@@ -1,4 +1,4 @@
-👋 <b>Oh, Hi there! It's me, Fevly</b> &nbsp;<a href="mailto:fevly.pallar@gmail.com"><img src="https://github.com/fevpallar/fevpallar/assets/17115595/4d91948b-df4f-4696-b720-76f4f50d4af3" height="20" ></a>&nbsp;<a href="https://wa.me/+6281399394895"><img src="https://github.com/fevpallar/fevpallar/assets/17115595/24d13181-9c88-4fff-b99c-46c503669d85" height="20" ></a><a href="https://stackoverflow.com/users/3831571/fevly-pallar"><img src="https://github.com/fevpallar/fevpallar/assets/17115595/807f26fa-5dd0-4a0e-b748-a92ece422000" height="20" ></a>
+👋 <b>Oh, Hi there! It's me, Fevly</b>
 
 
 <table>
